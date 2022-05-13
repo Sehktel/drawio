@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T04:59:24.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="xxlV086oWMUbiRaAFlKN" version="18.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-13T05:12:27.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="d1vKcFGBVeMXEqG7MmS4" version="18.0.3" type="github" pages="4">
   <diagram id="_GnEV1sgc2vaa2OKeEMN" name="Страница 1">
     <mxGraphModel dx="2071" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -475,6 +475,9 @@
         </mxCell>
         <mxCell id="_HJmp6zQNss2hLzUS1VX-49" value="&lt;div&gt;• Модуль 1: Системы информационных технологий - стратегия, управление и инфраструктура.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 2: Создание систем для управления информацией&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 3: Использование социальных сетей в бизнесе&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 4: Программирование&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 6: Разработка веб-сайтов&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 7: Разработка мобильных приложений.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 8: Разработка компьютерных игр&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 11: Кибербезопасность и управление инцидентами&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 13: Тестирование программного обеспечения&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 14: Настройка и интеграция приложений&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 15: Облачное хранилище и инструменты для совместной работы&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;• Модуль 18: Интернет вещей.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=48;" vertex="1" parent="1">
           <mxGeometry x="1040" y="-470" width="1920" height="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="_HJmp6zQNss2hLzUS1VX-99" value="Разложить на структуры по модулям с входящими и исходящими связями." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=48;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-940" width="1680" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
